@@ -1,0 +1,16 @@
+#area-cabecalho-games{
+	background-color: #290911;
+	padding: 15px;
+	text-align: center;
+}
+
+#area-cabecalho-games a:link, #area-cabecalho-games a:visited {
+	color: #FFF;
+	padding: 8px 12px;
+}
+
+#area-cabecalho-games a:hover {
+	color: #f7b600;
+	background: #FFF;
+	text-decoration: none;
+}
